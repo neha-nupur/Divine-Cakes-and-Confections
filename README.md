@@ -1,6 +1,7 @@
 # Divine Cakes and Confections
-<br>
+
 ## Framework/Tools Used:
+
 <ul>
   <li>HTML </li>
   <li>Bootstrap 5.3.0-alpha1 </li>
@@ -8,6 +9,7 @@
   <li>Google Fonts </li>
 </ul>
 ## Features:
+
 <ul>
   <li>Responsive website design using Bootstrap framework. </li>
   <li>Navigation bar with links to Contact, Pricing, and Download sections. </li>
@@ -15,7 +17,9 @@
   <li>Product section showcasing different cake images using cards and columns. </li>
   <li>Footer section with contact information and social media links. </li>
 </ul>
+
 ## How to Use:
+
 <ol>
   <li>Open the HTML file in a web browser. </li>
   <li>Navigate through the website using the links in the navigation bar. </li>
