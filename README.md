@@ -31,5 +31,10 @@
 Enjoy browsing through-
  ### Divine Cakes & Confections 
  website and finding your perfect slice of heaven!🍰</h2>
+ 
+ ## Screenshots
+ ![screencapture-divine-cakes-and-confections-netlify-app-2023-06-06-02_49_00](https://github.com/neha-nupur/Projects/assets/110279038/838f7b28-d1a8-4beb-bc5f-fcfbc8a7eaad)
+
+ 
 
 
